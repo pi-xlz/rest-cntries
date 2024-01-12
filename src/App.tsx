@@ -1,8 +1,12 @@
 const App = () => {
   return (
-    <div>
-      <h1 className="text-3xl font-bold underline">What's up world!</h1>
-    </div>
+    <>
+      <header></header>
+      <main>
+        <section></section>
+        <section></section>
+      </main>
+    </>
   );
 };
 
